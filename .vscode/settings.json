@@ -1,0 +1,28 @@
+{
+    "background.loop": true,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.customImages": [
+        "file://C:/Users/NguyenVanHieu/Desktop/Wibu/slide/gura1-removebg-preview.png",
+        "file://C:/Users/NguyenVanHieu/Desktop/Wibu/slide/gura2.png",
+        "file://C:/Users/NguyenVanHieu/Desktop/Wibu/slide/gura3.png",
+        "file://C:/Users/NguyenVanHieu/Desktop/Wibu/slide/gura4.png"
+    ],
+    "background.style": {
+
+         "content": "''",
+        "pointer-events": "none",
+        // "position": "fixed",
+        "z-index": "9999999999999",
+        "width": "100%",
+        "height": "100%",
+        "margin-left":"-100px",
+        // "margin-top":"-100px",
+        // "margin-right":"100px",
+        "background-position": "right bottom",
+        // "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.1
+    },
+    "liveServer.settings.port": 5505
+}
