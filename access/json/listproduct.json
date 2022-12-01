@@ -1,0 +1,280 @@
+[
+    {
+        "MaSP":1,
+        "TenSP":"Áo hai dây hình học giải trí",
+        "LoaiSP":"Áo",
+        "Hang": "ShHEIN",
+        "Discount":20,
+        "Price":150.000,
+        "Hinhanh":[ 
+            "gap01/gap01_1.webp",
+            "gap01/gap01_2.webp",
+            "gap01/gap01_3.webp",
+            "gap01/gap01_4.webp"
+                    ],
+        "Mota":[
+        "Độ mới: 90%", 
+        "Màu sắc: màu xanh",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":2,
+        "TenSP":"Áo nữ Xù nhỏ cắt loại bướm giải trí",
+        "LoaiSP":"Áo",
+        "Hang": "ZARA",
+        "Discount":0,
+        "Price":80.000,
+        "Hinhanh": [
+                "gap02/gap02_1.webp",
+                "gap02/gap02_2.webp",
+                "gap02/gap02_3.webp",
+                "gap02/gap02_4.webp"
+        ],
+        "Mota":[
+            "Độ mới: 90%", 
+            "Màu sắc: màu xanh",
+            "Phong cách: Giải trí",
+            "Kiểu mẫu: Hình học",
+            "Sợi vải: Căng nhẹ",
+            "Vật liệu: Polyester",
+            "Thành phần: 95% Polyester, 5% Bông vải thun",
+            "* Model: 1m67 - 46 kg", 
+            "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+        
+    },
+    {
+        "MaSP":3,
+        "TenSP":"Áo thun nữ màu trơn giải trí",
+        "LoaiSP":"Áo",
+        "Hang": "LABB",
+        "Discount":0,
+        "Price":120.000,
+        "Hinhanh": [
+            "gap03/gap03_1.webp",
+            "gap03/gap03_2.webp",
+            "gap03/gap03_3.webp",
+            "gap03/gap03_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 90%", 
+        "Màu sắc: màu nâu",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":4,
+        "TenSP":"Áo sơ mi chất rắn túi mặt trước nút thông qua thả vai",
+        "LoaiSP":"ÁO",
+        "Hang": "H&M",
+        "Discount":30,
+        "Price":150.000,
+        "Hinhanh": [
+            "gap04/gap04_1.webp",
+            "gap04/gap04_2.webp",
+            "gap04/gap04_3.webp",
+            "gap04/gap04_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 99%", 
+        "Màu sắc: Màu xanh ",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":5,
+        "TenSP":" Đầm Thắt lưng khối màu thanh lịch",
+        "LoaiSP":"Váy",
+        "Hang": "JUNO",
+        "Discount":10,
+        "Price":250.000,
+        "Hinhanh": [
+            "gap05/gap05_1.webp",
+            "gap05/gap05_2.webp",
+            "gap05/gap05_3.webp",
+            "gap05/gap05_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 98%", 
+        "Màu sắc: màu be",
+        "Phong cách: Gợi cảm",
+        "Kiểu mẫu: màu trơn",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":6,
+        "TenSP":"Đầm viền lá sen Nút phía trước Thực vật Tất cả trên in Boho",
+        "LoaiSP":"Váy",
+        "Hang": "ZARA",
+        "Discount":0,
+        "Price":190.000,
+        "Hinhanh": [
+            "gap06/gap06_1.webp",
+            "gap06/gap06_2.webp",
+            "gap06/gap06_3.webp",
+            "gap06/gap06_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 92%", 
+        "Màu sắc: Đen và trắng",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":7,
+        "TenSP":"Váy nữ Tách cao màu trơn Giải trí",
+        "LoaiSP":"Váy",
+        "Hang": "H&M",
+        "Discount":0,
+        "Price":100.000,
+        "Hinhanh": [
+            "gap07/gap07_1.webp",
+            "gap07/gap07_2.webp",
+            "gap07/gap07_3.webp",
+            "gap07/gap07_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 94%", 
+        "Màu sắc: màu đen",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":8,
+        "TenSP":"Váy nữ Chia màu trơn Giải trí ",
+        "LoaiSP":"Váy",
+        "Hang": "ZARA",
+        "Discount":0,
+        "Price":90.000,
+        "Hinhanh": [
+            "gap08/gap08_1.webp",
+            "gap08/gap08_2.webp",
+            "gap08/gap08_3.webp",
+            "gap08/gap08_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 90%", 
+        "Màu sắc: màu đen",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":9,
+        "TenSP":"Quần ống loe Đường may Chi tiết",
+        "LoaiSP":"Quần",
+        "Hang": "H&M",
+        "Discount":10,
+        "Price":140.000,
+        "Hinhanh": [
+            "gap09/gap09_1.webp",
+            "gap09/gap09_2.webp",
+            "gap09/gap09_3.webp",
+            "gap09/gap09_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 90%", 
+        "Màu sắc: màu nâu",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":10,
+        "TenSP":"Váy nữ Chia Họa tiết hoa Boho",
+        "LoaiSP":"Váy",
+        "Hang": "JUNO",
+        "Discount":0,
+        "Price":90.000,
+        "Hinhanh": [
+            "gap10/gap10_1.webp",
+            "gap10/gap10_2.webp",
+            "gap10/gap10_3.webp",
+            "gap10/gap10_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 95%", 
+        "Màu sắc: màu be",
+        "Phong cách: Giải trí",
+        "Kiểu mẫu: Hình học",
+        "Sợi vải: Căng nhẹ",
+        "Vật liệu: Polyester",
+        "Thành phần: 95% Polyester, 5% Bông vải thun",
+        "* Model: 1m67 - 46 kg", 
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":11,
+        "TenSP":"Kính râm ống kính màu khung vuông",
+        "LoaiSP":"Phụ kiện",
+        "Hang": "JUNO",
+        "Discount":0,
+        "Price":69.000,
+        "Hinhanh": [
+            "gap11/gap11_1.webp",
+            "gap11/gap11_2.webp",
+            "gap11/gap11_3.webp",
+            "gap11/gap11_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 100%", 
+        "Màu sắc: màu be",
+        "* *Lưu ý: Sản phẩm là hàng 2hand được Kho tuyển chọn kỹ càng, mỗi mẫu chỉ có 1 cái nên Khách tham khảo số đo sản phẩm giúp kho nhé !"]
+    },
+    {
+        "MaSP":12,
+        "TenSP":"Hoa trang trí tóc Claw",
+        "LoaiSP":"Phụ kiện",
+        "Hang": "JUNO",
+        "Discount":0,
+        "Price":45.000,
+        "Hinhanh": [
+            "gap12/gap12_1.webp",
+            "gap12/gap12_2.webp",
+            "gap12/gap12_3.webp",
+            "gap12/gap12_4.webp"
+    ],
+        "Mota":[
+        "Độ mới: 100%", 
+        "Màu sắc: màu xanh",
+        "Phong cách: Giải trí"
+        ]
+    }
+]
